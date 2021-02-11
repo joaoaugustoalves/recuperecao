@@ -1,0 +1,45 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: #17a2b8;
+  
+}
+
+.content{
+  width: 1200px;
+  margin: auto;
+  display: flex;
+}
+
+.content ul{
+  list-style-type: none;
+}
+
+.slogan{
+  width: 100px;
+}
+
+.listra{
+  width: 95px;
+}
+
+main{
+  background-color: grey;
+}
+
+.persona{
+  width: 50px;
+}
+
+.cesto{
+  width: 40px;
+}
+
+.divBusca{
+  background: url(images/comment-author.gif)no-repeat scroll 7px 7px;
+  padding-left:30px;
+}
